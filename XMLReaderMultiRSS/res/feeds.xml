@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<myFeeds>
+    <feed><link>http://feeds.reuters.com/reuters/entertainment</link></feed>
+    <feed><link>http://rss.cbc.ca/lineup/topstories.xml</link></feed>
+    <feed><link>http://rss.canoe.ca/Technology/home.xml</link></feed>
+    <feed><link>http://rss.news.yahoo.com/rss/celebrity</link></feed>
+    <keywords>
+        <word>Haiti</word>
+        <word>Obama</word>
+        <word>Leno</word>
+    </keywords>
+</myFeeds>

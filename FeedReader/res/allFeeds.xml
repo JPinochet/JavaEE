@@ -1,0 +1,14 @@
+<feeds>
+	<feed>
+		<title>Reuters: Top News</title>
+		<link>http://feeds.reuters.com/reuters/topNews?format=xml</link>
+	</feed>
+	<feed>
+		<title>Reuters: Business News</title>
+		<link>http://feeds.reuters.com/reuters/businessNews?format=xml</link>
+	</feed>
+	<feed>
+		<title>CBC | Technology &amp; Science News</title>
+		<link>http://rss.cbc.ca/lineup/technology.xml</link>
+	</feed>
+</feeds>

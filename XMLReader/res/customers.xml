@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<customers>
+    <customer>
+        <name>Adam</name>
+        <phoneNumber>
+            <number>780345345</number>
+            <type>cell</type>
+        </phoneNumber>
+    </customer>
+
+    <customer>
+        <name>Bill</name>
+        <address>
+            <street>1 The Lane</street>
+            <city>Calgary</city>
+            <postalCode>T1A 1A1</postalCode>
+        </address>
+    </customer>
+
+    <customer>
+        <name>Carl</name>
+        <address>
+            <street>2 The Yard</street>
+            <city>Edmonton</city>
+            <postalCode>T2A 2A2</postalCode>
+        </address>
+            <phoneNumber>
+                <number>7802342342</number>
+                <type>Work</type>
+            </phoneNumber>
+            <phoneNumber>
+                <number>78034234234</number>
+                <type>cell</type>
+            </phoneNumber>
+
+    </customer>
+</customers>
